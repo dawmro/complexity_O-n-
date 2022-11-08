@@ -22,10 +22,10 @@ if __name__ == '__main__':
     startTime = time.time()
     sum1(input_val)
     endTime = time.time()
-    print(f"sum1 run tume: {endTime - startTime}")  
+    print(f"sum1 run time: {endTime - startTime}")  
 
     startTime = time.time()
     sum2(input_val)
     endTime = time.time()
-    print(f"sum2 run tume: {endTime - startTime}")   
+    print(f"sum2 run time: {endTime - startTime}")   
         
